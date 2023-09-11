@@ -50,7 +50,3 @@ For more details on configuration, refer to the [Utterances Documentation](https
 This comments repository is open-source and uses the [MIT License](LICENSE.md). Feel free to modify and adapt it to your needs.
 
 Happy blogging and commenting! If you have any questions or need assistance, don't hesitate to reach out.
-
----
-
-Feel free to modify and expand this README as needed for your specific use case. It's important to provide clear instructions for contributors and visitors to your blog regarding how the comments system works and how to contribute or report issues.
